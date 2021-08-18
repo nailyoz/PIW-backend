@@ -1,0 +1,22 @@
+{
+  "name": "atividade-1",
+  "version": "1.0.0",
+  "description": "primeira atvidade",
+  "main": "main.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "forever-monitor": "^3.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.15",
+    "nodemon": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naily",
+  "license": "ISC"
+}
